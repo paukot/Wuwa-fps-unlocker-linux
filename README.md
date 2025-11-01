@@ -1,5 +1,6 @@
 # Wuwa-fps-unlocker-linux
-Script for linux taken from Wuwa fps unlocker https://github.com/WakuWakuPadoru/WuWa_Simple_FPSUnlocker to be run as a script
+Wuthering waves fps unlocker for linux
+Method taken from Wuwa fps unlocker https://github.com/WakuWakuPadoru/WuWa_Simple_FPSUnlocker to be run as a script
 
 
 Uses `sed` and `sqlite3` so make sure you have installed these dependencies
